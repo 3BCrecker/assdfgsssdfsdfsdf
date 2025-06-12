@@ -1,4 +1,5 @@
 // oneko.js: https://github.com/adryd325/oneko.js
+// vencord's oneko.ts: https://github.com/Vendicated/Vencord/blob/main/src/plugins/oneko/index.ts
 // i "borrowed" oneko's code
 
 (function oneko() {
